@@ -1,0 +1,25 @@
+{
+    "data": {},
+    "errors": [
+        {
+            "message": "User 'nghiahsgs2' not found",
+            "path": [
+                "user"
+            ],
+            "locations": [
+                {
+                    "line": 137,
+                    "column": 3
+                }
+            ],
+            "source": "Server",
+            "code": 50,
+            "kind": "NonFatal",
+            "extensions": {
+                "source": "Server",
+                "code": 50,
+                "kind": "NonFatal"
+            }
+        }
+    ]
+}
